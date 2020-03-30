@@ -13,6 +13,8 @@ Questa <a href="https://github.com/IZSAM-StatGIS/COVID19-Abruzzo/tree/master/dat
 ## Report
 Questa <a href="https://github.com/IZSAM-StatGIS/COVID19-Abruzzo/tree/master/report">cartella</a> contiene un report giornaliero in formato PDF con grafici elaborati sulla base dei **dati ufficiali** pubblicati dal Dipartimento di Protezione Civile sul <a href="https://github.com/pcm-dpc/COVID-19" target="_blank">proprio repository</a>.
 ### Note
- * I dati di Regioni e Province sono basato sui **dati ufficiali** pubblicati dal Dipartimento di Protezione Civile sul <a href="https://github.com/pcm-dpc/COVID-19" target="_blank">proprio repository</a> e sono aggiornati ogni sera.
- * I dati sui Comuni sono raccolte da fonti **non ufficiali** e vengono aggiornati *quando è possibile* e soltanto dopo aver confrontato le diverse fonti a disposizione.
- * Il report viene aggiornato *ogni sera*, tra le 20:00 e le 20:30.
+ * I dati di Regioni e Province sono basato sui **dati ufficiali** pubblicati dal Dipartimento di Protezione Civile sul <a href="https://github.com/pcm-dpc/COVID-19" target="_blank">proprio repository</a> e sono aggiornati ogni sera
+ 
+ * I dati sui Comuni sono raccolte da fonti **non ufficiali** e vengono aggiornati *quando è possibile* e soltanto dopo aver confrontato le diverse fonti a disposizione
+ 
+ * Il report viene aggiornato *ogni sera*, entro le 20:00
