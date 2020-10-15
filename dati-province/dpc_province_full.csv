@@ -32154,6 +32154,7 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-10-13T17:00:00,ITA,5,Veneto,29,Rovigo,RO,45.07107289,11.79007,701,
 2020-10-13T17:00:00,ITA,5,Veneto,899,Fuori Regione / Provincia Autonoma,,,,549,
 2020-10-13T17:00:00,ITA,5,Veneto,999,In fase di definizione/aggiornamento,,,,109,
+<<<<<<< HEAD
 2020-10-14T17:00:00,ITA,13,Abruzzo,66,L'Aquila,AQ,42.35122196,13.39843823,947,
 2020-10-14T17:00:00,ITA,13,Abruzzo,67,Teramo,TE,42.6589177,13.70439971,1082,
 2020-10-14T17:00:00,ITA,13,Abruzzo,68,Pescara,PE,42.46458398,14.21364822,2087,
@@ -32303,3 +32304,5 @@ data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_p
 2020-10-14T17:00:00,ITA,5,Veneto,29,Rovigo,RO,45.07107289,11.79007,704,
 2020-10-14T17:00:00,ITA,5,Veneto,899,Fuori Regione / Provincia Autonoma,,,,559,
 2020-10-14T17:00:00,ITA,5,Veneto,999,In fase di definizione/aggiornamento,,,,115,
+=======
+>>>>>>> a77955dbfb5e3811ef525e33d4341e9ab32bfeed
